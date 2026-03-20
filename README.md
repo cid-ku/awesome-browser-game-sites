@@ -9,6 +9,10 @@ Curated list of popular online game sites with working links.
 
 ## Featured Browser Game Sites
 
+### Monkey Mart Hub
+https://monkeymarthub.com
+Free browser game site dedicated to Monkey Mart — a supermarket management idle game. Play unblocked with no downloads. Includes Monkey Mart 2, tips, and guides.
+
 ### GamesMeoww  
 https://games.codemeoww.com  
 Free HTML5 browser games playable online. Includes arcade, puzzle, racing, and strategy games.
