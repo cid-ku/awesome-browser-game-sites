@@ -9,6 +9,10 @@ Curated list of popular online game sites with working links.
 
 ## Featured Browser Game Sites
 
+### OtterGames
+https://ottergames.org
+Large collection of high-quality Free web games. Includes Action, Adventure, Racing and more!
+
 ### GamesMeoww  
 https://games.codemeoww.com  
 Free HTML5 browser games playable online. Includes arcade, puzzle, racing, and strategy games.
