@@ -11,6 +11,7 @@ Curated list of popular online game sites with working links.
 
 ### OtterGames
 https://ottergames.org
+
 Large collection of high-quality Free web games. Includes Action, Adventure, Racing and more!
 
 ### GamesMeoww  
