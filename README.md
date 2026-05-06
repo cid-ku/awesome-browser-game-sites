@@ -90,6 +90,3 @@ One of the oldest online game websites.
 https://plays.org  
 Collection of free browser games for all ages.
 
-### GamesMeoww  
-https://games.codemeoww.com  
-Playable HTML5 browser games with fast loading and no downloads required.
