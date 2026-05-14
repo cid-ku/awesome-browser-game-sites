@@ -90,3 +90,7 @@ One of the oldest online game websites.
 https://plays.org  
 Collection of free browser games for all ages.
 
+### ArcadeLab
+https://arcadelab.ai
+Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
+
