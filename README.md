@@ -94,3 +94,6 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+### bab.gg
+https://bab.gg
+A daily browser game where you talk your way past a guard at a door to get in. Works in both Arabic and English. Made in the UAE.
