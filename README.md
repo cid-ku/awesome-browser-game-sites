@@ -58,6 +58,10 @@ Unblocked games that work on school networks.
 https://unblocked76.github.io  
 Simple unblocked games collection for restricted networks.
 
+### Nexus  
+https://nexus-unblocked.lol  
+600+ HTML5 games plus movies, TV, and web apps, with stealth tools built in.
+
 ### Math Playground  
 https://mathplayground.com  
 Educational and logic browser games.
