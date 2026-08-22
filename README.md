@@ -94,3 +94,7 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+
+### WordleLike
+https://wordlelike.com
+Free hub of 5 daily word games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver. No sign-up, fresh puzzles every day.
