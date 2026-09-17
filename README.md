@@ -8,6 +8,11 @@ Curated list of popular online game sites with working links.
 ---
 
 ## Featured Browser Game Sites
+### Deck Games
+https://deckgames.io
+
+Free classic card games in the browser — Klondike, FreeCell, Spider, TriPeaks, and more. No signup or downloads.
+
 
 ### OtterGames
 https://ottergames.org
