@@ -94,3 +94,9 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+
+
+### HopArcade
+
+https://hoparcade.com
+Free browser games including action, racing, and puzzles, with controls, tips, and guides. No downloads or account required to play.
