@@ -94,3 +94,6 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+### Bounty Board Arcade
+https://www.bountyboard.gg/arcade
+Free indie browser games playable without downloads or an account.
