@@ -94,3 +94,8 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+
+### NewGameDrops.com
+https://newgamedrops.com
+
+A daily directory of new AI-made browser games. Every day features a fresh game built with AI tools, playable instantly in the browser, each with an original written guide.
