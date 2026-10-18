@@ -9,6 +9,10 @@ Curated list of popular online game sites with working links.
 
 ## Featured Browser Game Sites
 
+### Blooket1  
+https://blooket1.com  
+127+ free HTML5 and WebGL unblocked browser games (Action, Driving, Sports, 2-Player, Puzzle, and Retro) engineered for instant 60 FPS play on school Chromebooks and laptops with no downloads.
+
 ### OtterGames
 https://ottergames.org
 
