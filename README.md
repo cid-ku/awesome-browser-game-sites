@@ -94,3 +94,7 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+### AmieLove
+https://amielove.me
+
+Curated collection of cozy, ad-light HTML5 browser games including Fruit Merge Garden, Soft Sort, and Desk Reset designed for zero-download instant play on mobile and desktop.
