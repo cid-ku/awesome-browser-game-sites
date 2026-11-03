@@ -94,3 +94,7 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+### Dle Games
+https://dlegames.io
+Free catalog of Wordle-like daily and unlimited puzzles with categories, favorites, My Daily tracking, and official outbound links.
+
