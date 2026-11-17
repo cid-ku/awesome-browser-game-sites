@@ -94,3 +94,6 @@ Collection of free browser games for all ages.
 https://arcadelab.ai
 Free no-signup platform where creators publish their own single-file HTML games, visualizations, and interactive content. Paste a complete HTML file, get a shareable URL. Open source.
 
+### Elunvi Games  
+https://elunvi.fun/  
+Free browser games, including same-keyboard co-op, tower defense, and touch-friendly number puzzles. Each game page lists the controls and supported devices.
