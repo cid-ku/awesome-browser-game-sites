@@ -97,3 +97,9 @@ Free no-signup platform where creators publish their own single-file HTML games,
 ### Elunvi Games  
 https://elunvi.fun/  
 Free browser games, including same-keyboard co-op, tower defense, and touch-friendly number puzzles. Each game page lists the controls and supported devices.
+
+### Best Daily Games
+
+<https://bestdaily.games/>
+
+A catalog of daily word, geography, music and trivia games with browser play links and illustrated guides.
