@@ -14,6 +14,11 @@ https://ottergames.org
 
 Large collection of high-quality Free web games. Includes Action, Adventure, Racing and more!
 
+### neme.world
+https://neme.world
+
+Publish and play static browser games with versioned links, rollbacks, embed links, and playtest reports.
+
 ### GamesMeoww  
 https://games.codemeoww.com  
 Free HTML5 browser games playable online. Includes arcade, puzzle, racing, and strategy games.
